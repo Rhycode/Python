@@ -1,2 +1,1 @@
-# Python
-Python code
+CODE
